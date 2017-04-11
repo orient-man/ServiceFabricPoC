@@ -13,7 +13,7 @@ open CatActor.Interfaces
 ///  - None: State is kept in memory only and not replicated.
 /// </remarks>
 [<StatePersistence(StatePersistence.Persisted)>]
-type CatActor internal (actorService, actorId) =
+type internal CatActor (actorService, actorId) =
     inherit Actor(actorService, actorId)
 
     /// <summary>

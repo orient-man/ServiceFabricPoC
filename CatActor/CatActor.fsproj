@@ -77,6 +77,7 @@
     <Compile Include="ActorEventSource.fs" />
     <Compile Include="CatActor.fs" />
     <Compile Include="Program.fs" />
+    <None Include="Test.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
