@@ -9,3 +9,4 @@ nuget Microsoft.ServiceFabric.Data
 nuget Microsoft.ServiceFabric.FabricTransport.Internal
 nuget Microsoft.ServiceFabric.Services
 nuget Microsoft.ServiceFabric.Services.Remoting
+nuget System.ValueTuple = 4.3.0

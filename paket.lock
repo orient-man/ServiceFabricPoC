@@ -17,3 +17,4 @@ NUGET
     Microsoft.ServiceFabric.Services.Remoting (2.5.216)
       Microsoft.ServiceFabric.FabricTransport.Internal (2.5.216)
       Microsoft.ServiceFabric.Services (2.5.216)
+    System.ValueTuple (4.3)
