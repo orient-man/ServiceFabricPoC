@@ -1,0 +1,6 @@
+Microsoft.ServiceFabric
+Microsoft.ServiceFabric.Actors
+Microsoft.ServiceFabric.Data
+Microsoft.ServiceFabric.FabricTransport.Internal
+Microsoft.ServiceFabric.Services
+Microsoft.ServiceFabric.Services.Remoting

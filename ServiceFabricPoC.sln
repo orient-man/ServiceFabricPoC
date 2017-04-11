@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{5C47E063-DFCD-4982-BFAC-4E94E0B0CE11}"
+	ProjectSection(SolutionItems) = preProject
+		paket.dependencies = paket.dependencies
+	EndProjectSection
+EndProject
 Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "ServiceFabricPoC", "ServiceFabricPoC\ServiceFabricPoC.sfproj", "{82C75BBD-81AC-4610-BC11-2C085ADA2B4D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatActor", "CatActor\CatActor.csproj", "{21052D7C-CC46-4FE5-A618-D9FA47A8F5E1}"
